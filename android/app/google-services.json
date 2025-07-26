@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952477247327",
+    "project_id": "minimal-bdbb3",
+    "storage_bucket": "minimal-bdbb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952477247327:android:3190d6b3c33727cb0c38ea",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQfMc06AkvBoUzZFsCHydU4CeSURz2_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
