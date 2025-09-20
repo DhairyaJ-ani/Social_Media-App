@@ -1,7 +1,7 @@
 # M I N I M A L
 
 A **minimalist social media app** built with **Flutter** and
-**Firebase**.\
+**Firebase**.
 M I N I M A L focuses on simplicity while providing essential social
 features like authentication, global chat, and customizable theming.
 
@@ -10,27 +10,27 @@ features like authentication, global chat, and customizable theming.
 ## ✨ Features
 
 -   **User Authentication**
-    -   Sign up / Login with Firebase Authentication\
+    -   Sign up / Login with Firebase Authentication
     -   Password reset via email
 -   **Profile Management**
     -   User profile page with details and customization
 -   **Global Chat**
-    -   Open chatroom where all users can interact\
+    -   Open chatroom where all users can interact
     -   Real-time updates using Firebase
 -   **User Pages**
     -   View other users' profiles
 -   **Dynamic Theming**
-    -   Automatically adapts to system light/dark mode\
+    -   Automatically adapts to system light/dark mode
     -   Custom color scheme for a clean, modern UI
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   **Framework**: [Flutter](https://flutter.dev/)\
--   **Database & Backend**: [Firebase](https://firebase.google.com/)\
+-   **Framework**: [Flutter](https://flutter.dev/)
+-   **Database & Backend**: [Firebase](https://firebase.google.com/)
 -   **State Management**: Flutter's built-in tools (e.g.,
-    Provider/SetState depending on your implementation)\
+    Provider/SetState depending on your implementation)
 -   **UI**: Material Design + Dynamic theming
 
 ------------------------------------------------------------------------
@@ -80,11 +80,11 @@ features like authentication, global chat, and customizable theming.
      ├── home/                # Home feed & chatroom
      ├── profile/             # User profile screens
      ├── themes/              # Light/Dark theme configuration
-     └── components/             # Reusable UI components
+     └── components/          # Reusable UI components
 
 ------------------------------------------------------------------------
 
-## 🎨 Screenshots (Optional)
+## 🎨 Screenshots 
 
 *Add some screenshots here once available to showcase UI/UX.*
 
@@ -92,21 +92,16 @@ features like authentication, global chat, and customizable theming.
 
 ## 🔮 Future Improvements
 
--   Direct messaging (1-on-1 chats)\
--   Push notifications\
--   Media sharing (images/videos)\
+-   Direct messaging (1-on-1 chats)
+-   Push notifications
+-   Media sharing (images/videos)
 -   Profile customization (bio, status, avatar uploads)
 
 ------------------------------------------------------------------------
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!\
-Feel free to check the [issues
-page](https://github.com/your-username/minimal/issues).
+Contributions, issues, and feature requests are welcome!
 
 ------------------------------------------------------------------------
 
-## 📜 License
-
-This project is licensed under the MIT License.
